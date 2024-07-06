@@ -1,0 +1,20 @@
+# Folders
+.vs/
+.vscode/
+bin/
+obj/
+*/temp/
+*/wwwroot/temp/
+*/wwwroot/lib/
+*/wwwroot/dist/
+*/node_modules
+
+nfes/
+
+# Files
+.env
+*.trc
+*.user
+nuget.config
+yarn-error.log
+.npmrc
